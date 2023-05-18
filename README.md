@@ -11,8 +11,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 this is just a random repo for my testing and other universties project.
-
-i do what i want with my repo. 
-
-have a great day everybody >_<
+Mostly made using Springboot / Java.
 
