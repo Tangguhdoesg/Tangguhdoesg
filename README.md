@@ -11,4 +11,4 @@ You can click the Preview link to take a look at your changes.
 --->
 Mostly do backend Spring JAVA to made some REST API. 
 This is just a random repo for my testing and other universties project. 
-Might do some other stuff here to just because i'm bored.
+Might do some other stuff here too just because i'm bored.
